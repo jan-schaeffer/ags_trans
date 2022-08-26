@@ -1,0 +1,11 @@
+# Mac Finder Configurations
+**/.DS_Store
+
+# IPython checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# .xslx
+.xlsx
