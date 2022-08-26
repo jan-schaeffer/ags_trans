@@ -10,7 +10,7 @@ The notebook requires the files:
 
 which are available from the BBSR at: https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/umstiegsschluessel/umstiegsschluessel.html 
 
-Please note that the layout of the excel sheets was changed after 2015 and to rerun the script one has to manually change the headers from, e.g. 'Gemeinden 31.12.2017' to 'Kennziffer'. 
+Please note that the layout of the excel sheets was changed after 2015 and to rerun the script one has to manually change the headers from, e.g., 'Gemeinden 31.12.2017' to 'Kennziffer'. 
 
 In the /data folder I provide a full dataset of all Municipalities (ags_transition.csv) as well as only those municipalities, where the AGS has changed over the years (ags_changes.csv).
 
